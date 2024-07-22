@@ -3,8 +3,9 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
       fontFamily: {
-          primary: "Montserrat",
+          primary: "montserrat",
           secondary: "Orbitron",
+          third: "comic-sans-ms",
       },
       extend: {
           colors: {
